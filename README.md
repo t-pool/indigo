@@ -1,6 +1,6 @@
 ## Indigo
 
-Indigo an Ethereum Proof of Authority blockchain. Indigo is based on and heavily modifies the amazing work done by [Indigo](https://github.com/fulcrumchain/indigo). Currently, work in progress to add new features and better integrations with the Fulcrum ecosystem.
+Indigo an Ethereum Proof of Authority blockchain. Indigo is based on and heavily modifies the amazing work done by [GoChain](https://github.com/gochain-io/gochain). Currently, work in progress to add new features and better integrations with the Fulcrum ecosystem.
 
 
 ## Building the source
